@@ -18,6 +18,10 @@ public class DeclareAssign {
         String message2 = "Hello!";
         int hour2 = 11;
         int minute2 = 59;
+        
+        
+        //System.out.println(hour+":"+minute2);
+        System.out.println(message2+" It's "+hour+":"+minute);
     }
 
 }
